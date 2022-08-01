@@ -28,8 +28,7 @@ Add them as a library in the classpath of the project
 - _click-reight on the file project >Build path > configure Bild path > Java Build Path > Libraries > classpath > add external JARs > Apply and close_.
 
 ### Third:
-I Opened website, then take web element, and then add them in the code.
-
+I opened the website, then take web elements, and then add them to the code.
 <p align="center">
 <img src="https://user-images.githubusercontent.com/48597284/182246592-d68b06d2-edeb-4d6d-abab-0087723f0e31.png" width=60% height=60%>
 </p>
